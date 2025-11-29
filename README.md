@@ -1,5 +1,4 @@
-# cordova-plugin-multi-image-picker
-Cordova Plugin for Android Multi Image Picker
+# Cordova Plugin for Android Multi Image Picker
 
 
 ## Installation
@@ -12,12 +11,12 @@ Cordova Plugin for Android Multi Image Picker
 
 ## Quick Example
 
-    window.MultiImagePicker.pick(function (results) {
+    window.MultiImagePicker.pick(function(results) {
         if (!results || !results.length) {
           console.log('No images selected');
           return;
         }
-    }, function(err) {
-        console.log(''Error opening Photo Library' + err);
+    }, function(error) {
+        console.log('Error opening Photo Library' + error);
     });
 
