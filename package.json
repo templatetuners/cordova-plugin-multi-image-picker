@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-multi-image-picker",
+  "version": "1.0.0",
+  "description": "Cordova plugin for picking multiple images using native Android picker",
+  "cordova": {
+    "id": "cordova-plugin-multi-image-picker",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "images",
+    "photos",
+    "picker",
+    "multiselect"
+  ],
+  "author": "Adrian Axinte",
+  "license": "MIT"
+}
