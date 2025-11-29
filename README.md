@@ -1,12 +1,10 @@
-# cordova-plugin-clsprint
-Cordova Plugin for Citizen CL-S521 Printer
+# cordova-plugin-multi-image-picker
+Cordova Plugin for Android Multi Image Picker
 
-Citizen Product and SDK
-https://www.citizen-systems.com/en/products/printer/label/cl-s521/
 
 ## Installation
 
-    cordova plugin add https://github.com/templatetuners/cordova-plugin-clsprinter/
+    cordova plugin add https://github.com/templatetuners/cordova-plugin-multi-image-picker
 
 ## Supported Platforms
 
